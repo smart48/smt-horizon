@@ -1,5 +1,7 @@
 # smt-horizon
 
+
+This is the Smart48 official Laravel Horizon image based on the Laradock Horizon image running on PHP 7.4.
 ## Docker Build
 
 To build for our own Smart48 Docker Hub repository we use
