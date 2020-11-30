@@ -1,7 +1,6 @@
-# smt-horizon
+# SMT Horizon
 
-
-This is the Smart48 official Laravel Horizon image based on the Laradock Horizon image running on PHP 7.4.
+This is the Smart48 official Laravel Horizon image based on the Laradock Horizon image running on PHP 7.4. The image is used together with the Laravel, Nginx, Workspace and Worker image to run the Laravel PHP application with ease.
 ## Docker Build
 
 To build for our own Smart48 Docker Hub repository we use
